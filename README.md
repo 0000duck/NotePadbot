@@ -1,5 +1,10 @@
 ABB-Rapid-for-notepad
 =====================
+update: 2014.11.26
+
+KUKA Robot KRL Language support, provided by @LT
+
+update: 2012.12.16
 
 Hightlight the ABB Rapid Code in Notepad ++
 
