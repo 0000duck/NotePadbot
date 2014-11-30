@@ -1,4 +1,4 @@
-ABB-Rapid-for-notepad
+Notepad ++ for Industrial robot 
 =====================
 update: 2014.11.26
 
